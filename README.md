@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repo
 <br>
-Author - Ankit Kumar Das
+Author - Ankit Kumar Das(Apna College)
